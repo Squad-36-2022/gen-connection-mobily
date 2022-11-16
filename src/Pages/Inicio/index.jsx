@@ -39,7 +39,7 @@ const Inicio = () => {
                 do desempenho educacional do aluno do qual você é responsável
             </Text>
             <View style={styles.btnContainer}>
-                <Button title="Entrar" onPress={openLogin} />
+                <Button title="Começar" onPress={openLogin} />
             </View>
             
         </View>
